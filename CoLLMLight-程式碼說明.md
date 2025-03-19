@@ -233,7 +233,7 @@ python run_presslight.py --dataset='newyork_28x7'
   - 靈活配置
   - 易於整合
 
-- **魯棒性**
+- **穩健性**
   - 異常處理
   - 容錯機制
   - 穩定性保證
